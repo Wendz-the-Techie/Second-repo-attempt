@@ -1,0 +1,246 @@
+body {
+  background-color: #29292b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+small {
+  opacity: 80%;
+}
+
+form {
+  color: white;
+  position: relative;
+  bottom: 28px;
+  left: 155px;
+  width: 30%;
+}
+
+h1 {
+  padding: 24px 0;
+}
+footer {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  position: relative;
+  bottom: 80px;
+}
+
+.body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(90, 92, 106) 0%,
+    rgb(38, 53, 68) 81.3%
+  );
+  border: none;
+  border-radius: 30px;
+  margin: 100px 40px;
+}
+
+.menu {
+  color: white;
+  background-color: #29292b;
+  border: #29292b;
+  padding: 12px;
+  position: relative;
+  left: 6px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.notifications {
+  color: white;
+  background-color: #29292b;
+  border: #29292b;
+  padding: 12px;
+  position: relative;
+  left: 16px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.search {
+  border-radius: 20px;
+}
+
+.image {
+  width: 40px;
+  position: relative;
+  left: 820px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.theme {
+  background-color: #29292b;
+  border: #29292b;
+  width: 8%;
+  padding: 12px;
+  position: relative;
+  left: 66%;
+  top: 10px;
+}
+.dark,
+.light {
+  color: white;
+  padding-left: 8px;
+  cursor: pointer;
+}
+.settings {
+  color: white;
+  background-color: #29292b;
+  border: #29292b;
+  padding: 12px;
+  position: relative;
+  left: 77%;
+  top: 10px;
+  cursor: pointer;
+}
+
+.today {
+  color: white;
+  position: relative;
+  top: 60px;
+  left: 8px;
+  font-weight: bold;
+}
+.underscore {
+  color: white;
+  width: 80px;
+  position: relative;
+  top: 50px;
+}
+
+.results {
+  color: white;
+  background-color: #29292b;
+  border-radius: 90px;
+  border: #29292b;
+  width: 50%;
+  position: relative;
+  top: 80px;
+}
+
+.cloud {
+  color: #c5c8ce;
+  font-size: 48px;
+  position: relative;
+  left: 50px;
+  top: 38px;
+}
+
+.col-6 {
+  color: white;
+  position: relative;
+  right: 100px;
+}
+
+.cities {
+  color: white;
+  position: relative;
+  left: 70%;
+  bottom: 18px;
+}
+
+.other-cities {
+  color: white;
+  background-color: #29292b;
+  position: relative;
+  top: 20px;
+}
+
+.durban {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.city-degrees {
+  font-size: 28px;
+  font-weight: bold;
+  position: absolute;
+  left: 148px;
+  bottom: 66px;
+}
+
+.underline {
+  color: white;
+  width: 110px;
+}
+
+.predictions {
+  color: white;
+  position: relative;
+  bottom: 480px;
+  font-weight: bold;
+  position: relative;
+  left: 14px;
+}
+
+.line {
+  color: white;
+  position: relative;
+  bottom: 490px;
+  width: 120px;
+}
+
+.col-1 {
+  position: relative;
+  bottom: 470px;
+}
+.pills {
+  color: white;
+  background-color: #29292b;
+  position: relative;
+  top: 20px;
+}
+
+.days {
+  position: relative;
+  left: 8px;
+}
+.degrees {
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  left: 8px;
+}
+.map {
+  color: white;
+  font-weight: bold;
+  position: relative;
+  bottom: 300px;
+  left: 10px;
+}
+.rule {
+  color: white;
+  position: relative;
+  bottom: 290px;
+  width: 120px;
+  left: 10px;
+}
+.global-map {
+  width: 800px;
+  border-radius: 50px;
+  position: relative;
+  bottom: 230px;
+  right: 80px;
+  cursor: pointer;
+}
+.cpt {
+  position: relative;
+  bottom: 300px;
+  left: 460px;
+}
+
+.tky {
+  position: relative;
+  bottom: 480px;
+  left: 715px;
+}
+.prs {
+  position: relative;
+  bottom: 544px;
+  left: 428px;
+}
+
+.sixteen {
+  font-size: 24px;
+}
